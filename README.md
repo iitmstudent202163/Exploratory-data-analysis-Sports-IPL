@@ -14,6 +14,10 @@
 3. IPL Dataset in csv format
 4. Any other relevant packages(numpy,pandas,matplotlib)
 
+# Dataset
+1. Matches.csv
+2. Deliveries.csv
+
 # Analysis
 Exploratory Analysis
 
